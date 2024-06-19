@@ -1,0 +1,196 @@
+#EXTM3U
+
+#EXTINF:-1,CNN BRASIL HD
+http://179.124.14.153:8080/05/mpegts
+#EXTINF:-1,JP NEWS HD
+http://179.124.14.153:8080/06/mpegts
+#EXTINF:-1,GLOBO NEWS HD
+http://179.124.14.153:8080/08/mpegts
+#EXTINF:-1,TC PIPOCA HD
+http://179.124.14.153:8080/16/mpegts
+#EXTINF:-1,TC ACTION HD
+http://179.124.14.153:8080/17/mpegts
+#EXTINF:-1,TC PREMIUM HD
+http://179.124.14.153:8080/18/mpegts
+#EXTINF:-1,DISCOVERY HD
+http://179.124.14.153:8080/10/mpegts
+#EXTINF:-1,MULTISHOW HD
+http://179.124.14.153:8080/09/mpegts
+#EXTINF:-1,DISCOVERY KIDS HD
+http://179.124.14.153:8080/12/mpegts
+#EXTINF:-1,CARTOON HD
+http://179.124.14.153:8080/13/mpegts
+#EXTINF:-1,WARNER HD
+http://179.124.14.153:8080/14/mpegts
+#EXTINF:-1,CINEMAX HD
+http://179.124.14.153:8080/15/mpegts
+#EXTINF:-1,SPORTV HD
+http://179.124.14.153:8080/19/mpegts
+#EXTINF:-1,ESPN HD
+http://179.124.14.153:8080/20/mpegts
+
+
+
+#EXTINF:0,HGTV HD BR
+http://mycdn.delivery/hgtv/index.m3u8
+#EXTINF:0,History HD BR
+http://mycdn.delivery/history/index.m3u8
+#EXTINF:0,History-2 HD BR
+http://mycdn.delivery/history2/index.m3u8
+#EXTINF:0,ID Discovery HD BR
+http://mycdn.delivery/discoveryid/index.m3u8
+#EXTINF:0,lifetime HD BR
+http://mycdn.delivery/lifetime/index.m3u8
+#EXTINF:0,Discovery Channel HD BR
+http://mycdn.delivery/discovery/index.m3u8
+#EXTINF:0,Discovery Kids HD BR
+http://mycdn.delivery/discoverykids/index.m3u8
+#EXTINF:0,Discovery Science HD BR
+http://mycdn.delivery/discoveryscience/index.m3u8
+#EXTINF:0,Discovery Theater BR
+http://mycdn.delivery/discoverytheater/index.m3u8
+#EXTINF:0,Discovery Turbo HD HD BR
+http://mycdn.delivery/discoveryturbo/index.m3u8
+#EXTINF:0,Discovery World HD BR
+http://mycdn.delivery/discoveryworld/index.m3u8
+#EXTINF:0,AMC HD BR
+http://mycdn.delivery/amc/index.m3u8
+#EXTINF:0,Animal Planet HD BR
+http://mycdn.delivery/animalplanet/index.m3u8
+#EXTINF:0,AXN HD BR
+http://mycdn.delivery/axn/index.m3u8
+#EXTINF:0,Baby TV BR
+http://mycdn.delivery/babytv/index.m3u8
+#EXTINF:0,Cartoon Network HD BR
+http://mycdn.delivery/cartoonnetwork/index.m3u8
+#EXTINF:0,Cartoonito HD BR
+http://mycdn.delivery/cartoonito/index.m3u8
+#EXTINF:0,Cinecanal HQ BR
+http://mycdn.delivery/cinecanal/index.m3u8
+#EXTINF:0,Cinemax HD BR
+http://mycdn.delivery/cinemax/index.m3u8
+#EXTINF:0,Comedy Central HD BR
+http://mycdn.delivery/comedycentral/index.m3u8
+#EXTINF:0,Disney Junior HD BR
+http://mycdn.delivery/disneychannel/index.m3u8
+#EXTINF:0,E! HD BR
+http://mycdn.delivery/e/index.m3u8
+#EXTINF:0,Food Network HD BR
+http://mycdn.delivery/foodnetwork/index.m3u8
+#EXTINF:0,FX HD BR
+http://mycdn.delivery/fx/index.m3u8
+#EXTINF:0,Gloob HD BR
+http://mycdn.delivery/gloob/index.m3u8
+#EXTINF:0,GNT HD BR
+http://mycdn.delivery/gnt/index.m3u8
+#EXTINF:0,HBO Family HD BR
+http://mycdn.delivery/hbofamily/index.m3u8
+#EXTINF:0,HBO HD BR
+http://mycdn.delivery/hbo/index.m3u8
+#EXTINF:0,HBO Signature HD BR
+http://mycdn.delivery/hbosignature/index.m3u8
+#EXTINF:0,HBO-2 HD BR
+http://mycdn.delivery/hbo2/index.m3u8
+#EXTINF:0,Megapix HD BR
+http://mycdn.delivery/megapix/index.m3u8
+#EXTINF:0,MultiShow HD BR
+http://mycdn.delivery/multishow/index.m3u8
+#EXTINF:0,National Geographic HD BR
+http://mycdn.delivery/nationalgeographic/index.m3u8
+#EXTINF:0,Nick Jr. HD BR
+http://mycdn.delivery/nickjr/index.m3u8
+#EXTINF:0,Nickelodeon HD BR
+http://mycdn.delivery/nickelodeon/index.m3u8
+#EXTINF:0,Paramount Network HD BR
+http://mycdn.delivery/paramount/index.m3u8
+#EXTINF:0,Sony Channel HD BR
+http://mycdn.delivery/sonychannel/index.m3u8
+#EXTINF:0,Sony Movies HD BR
+http://mycdn.delivery/sonymovies/index.m3u8
+#EXTINF:0,Space TV HD BR
+http://mycdn.delivery/space/index.m3u8
+#EXTINF:0,Studio Universal HD BR
+http://mycdn.delivery/studiouniversal/index.m3u8
+#EXTINF:0,TCM HD BR
+http://mycdn.delivery/tcm/index.m3u8
+#EXTINF:0,Telecine Action HD BR
+http://mycdn.delivery/telecineaction/index.m3u8
+#EXTINF:0,Telecine Cult BR
+http://mycdn.delivery/telecinecult/index.m3u8
+#EXTINF:0,Telecine Fun BR
+http://mycdn.delivery/telecinefun/index.m3u8
+#EXTINF:0,Telecine Pipoca HD BR
+http://mycdn.delivery/telecinepipoca/index.m3u8
+#EXTINF:0,Telecine Premium HD BR
+http://mycdn.delivery/telecinepremium/index.m3u8
+#EXTINF:0,Telecine Touch BR
+http://mycdn.delivery/telecinetouch/index.m3u8
+#EXTINF:0,TLC HD BR
+http://mycdn.delivery/tlc/index.m3u8
+#EXTINF:0,TNT HD BR
+http://mycdn.delivery/tnt/index.m3u8
+#EXTINF:0,TNT Series HD BR
+http://mycdn.delivery/tntseries/index.m3u8
+#EXTINF:0,Tooncast BR
+http://mycdn.delivery/tooncast/index.m3u8
+#EXTINF:0,Universal TV HD BR
+http://mycdn.delivery/universaltv/index.m3u8
+#EXTINF:0,USA Network HD BR
+http://mycdn.delivery/usa/index.m3u8
+#EXTINF:0,Viva HD BR
+http://mycdn.delivery/viva/index.m3u8
+#EXTINF:0,Woohoo HD BR
+http://mycdn.delivery/woohoo/index.m3u8
+#EXTINF:0,Zoo-Moo Kids TV HD
+http://mycdn.delivery/zoomoo/index.m3u8
+
+
+#EXTINF:-1,TELECINE FUN
+https://brflu.walk-tv.com/5901/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TELECINE TOUCH
+https://brflu.walk-tv.com/5880/index.m3u8
+#EXTINF:-1,TELECINE PREMIUM
+https://brflu.walk-tv.com/5879/index.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+https://brflu.walk-tv.com/5877/index.m3u8
+#EXTINF:-1,TELECINE ACTION
+https://brflu.walk-tv.com/5875/index.m3u8
+#EXTINF:-1,FX
+https://brflu.walk-tv.com/5855/index.m3u8
+#EXTINF:-1,HBO 2
+https://brflu.walk-tv.com/5857/index.m3u8
+#EXTINF:-1,HBO Plus
+https://brflu.walk-tv.com/5893/index.m3u8
+#EXTINF:-1,HBO Signature
+https://brflu.walk-tv.com/5861/index.m3u8
+#EXTINF:-1,Studio Universal
+https://brflu.walk-tv.com/5847/index.m3u8
+#EXTINF:-1,Warner TV
+https://brflu.walk-tv.com/5882/index.m3u8
+#EXTINF:-1,Viva
+https://brflu.walk-tv.com/5850/index.m3u8
+#EXTINF:-1,Discovery Kids
+https://brflu.walk-tv.com/5872/index.m3u8
+#EXTINF:-1,Globo RJ
+https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sport TV
+https://brflu.walk-tv.com/5932/mono.m3u8
+#EXTINF:-1,Sport TV 2
+https://brflu.walk-tv.com/5931/mono.m3u8
+
+#EXTINF:-1,EUROSPORT 360-1 HD
+http://45.90.106.7:8779/play/UrQ5279K2@G679D/index.m3u8
+#EXTINF:-1,EUROSPORT 360-2 HD
+http://45.90.106.7:8779/play/FrQi4519K6@RqD45N/index.m3u8
+#EXTINF:-1,EUROSPORT 360-3 HD
+http://45.90.106.7:8779/play/ScQg72019U4@RjVt54L/index.m3u8
+#EXTINF:-1,EUROSPORT 360-4 HD
+http://45.90.106.7:8779/play/TeQ7430K8@Y86K/index.m3u8
+#EXTINF:-1,EUROSPORT 360-5 HD
+http://45.90.106.7:8779/play/GrSc3519H5@NpTq73V/index.m3u8
+#EXTINF:-1,EUROSPORT 360-6 HD
+http://45.90.106.7:8779/play/FqTc1083b9@NrQ43V/index.m3u8
+#EXTINF:-1,EUROSPORT 360-7 HD
+http://45.90.106.7:8779/play/KbEq4173X2@CqP95JQ/index.m3u8
+#EXTINF:-1,EUROSPORT 360-8 HD
+http://45.90.106.7:8779/play/RnBTS7009Y2@VqM93K/index.m3u8

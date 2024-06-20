@@ -1,0 +1,641 @@
+#EXTM3U
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="6caa288d259804dcb5fea5636d5da2ff",ClaroTV/147MHz/{PMT:7004}
+http://177.33.79.44:9981/stream/channelid/220768876?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="caebc6bfb4f82e9205f5081f6100e51e",ClaroTV/159MHz/{PMT:7004}
+http://177.33.79.44:9981/stream/channelid/1070001098?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="058dfcfd2152b6cd7123b7ae85dd2729",ClaroTV/189MHz/{PMT:2616}
+http://177.33.79.44:9981/stream/channelid/2113703173?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="094b4d41d021ef747204b7cd8c9533d4",ClaroTV/207MHz/{PMT:840}
+http://177.33.79.44:9981/stream/channelid/1095584521?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="648fe86d3453b5b69fa9bd1c18368d6d",ClaroTV/273MHz/{PMT:1928}
+http://177.33.79.44:9981/stream/channelid/1843957604?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="4ed0d81e64abb6fa6a663822557a9c9a",ClaroTV/387MHz/{PMT:7832}
+http://177.33.79.44:9981/stream/channelid/517525582?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="c052e3799e39c54772a4509bdfb3c60e",ClaroTV/441MHz/{PMT:5000}
+http://177.33.79.44:9981/stream/channelid/2044940992?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="059a99434e1958a58ab31a1b78f881af" tvg-chno="1",NOW
+http://177.33.79.44:9981/stream/channelid/1134139909?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/canal2.png" tvg-id="316628eedb8596675f29ec19f92b99d8" tvg-chno="2",Canal 2
+http://177.33.79.44:9981/stream/channelid/1848141361?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tvbrasil.png" tvg-id="64bfbc2cf3857b89d942e8f60fc8157d" tvg-chno="4",TV Brasil
+http://177.33.79.44:9981/stream/channelid/750567268?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/canalgov.png" tvg-id="b096a583fd083609dc0850e56828aac7" tvg-chno="5",Canal GOV
+http://177.33.79.44:9981/stream/channelid/61183664?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="2f25a88ee81d262e9a1165f613f652c5" tvg-chno="30",Canal de Cliente
+http://177.33.79.44:9981/stream/channelid/245900591?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/futura.png" tvg-id="d3ed4469e0986d653c8434df5e7fe750" tvg-chno="34",Futura
+http://177.33.79.44:9981/stream/channelid/1766125011?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/off.png" tvg-id="4d55315d35dc58450a0494a392d538a9" tvg-chno="35",OFF
+http://177.33.79.44:9981/stream/channelid/1563514189?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/sportv3.png" tvg-id="94a6b2acb31b785391bb2164a7a3495a" tvg-chno="37",SporTV3
+http://177.33.79.44:9981/stream/channelid/749905556?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/sportv2.png" tvg-id="d809b3e1b4ed4c615b2460c55370d141" tvg-chno="38",SporTV2
+http://177.33.79.44:9981/stream/channelid/1639123416?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/globonews.png" tvg-id="23612b244bec3310d1c0c0ca77443bdb" tvg-chno="40",GloboNews
+http://177.33.79.44:9981/stream/channelid/606822691?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/multishow.png" tvg-id="644a9307ebb34d86ef06ea0b8f73799b" tvg-chno="42",Multishow
+http://177.33.79.44:9981/stream/channelid/127093348?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/viva.png" tvg-id="70a2934daf53a8897d37c17c992dc5d3" tvg-chno="43",Viva
+http://177.33.79.44:9981/stream/channelid/1301521008?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/modoviagemhd.png" tvg-id="2c29f0eb0222e7e4ec36614a24d86cf4" tvg-chno="44",Modo Viagem
+http://177.33.79.44:9981/stream/channelid/1810901292?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/e.png" tvg-id="e1df01c2076d7b2daadb87c727940512" tvg-chno="50",E!
+http://177.33.79.44:9981/stream/channelid/1107419105?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tlc.png" tvg-id="9f19f2eed7919c6db581e06df8d87f06" tvg-chno="52",TLC
+http://177.33.79.44:9981/stream/channelid/1861360031?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/arte1.png" tvg-id="897d709aee45bfd157fe1a776f1a5f44" tvg-chno="53",Arte 1
+http://177.33.79.44:9981/stream/channelid/443579785?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/foodnetwork.png" tvg-id="2d3d1d8c20a86d480db6d40ce522923e" tvg-chno="54",Food Network
+http://177.33.79.44:9981/stream/channelid/203242797?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/dischomehealth.png" tvg-id="e7eaf3cd3d5acd1e5c8218cff860c5e6" tvg-chno="55",Disc. Home & Health
+http://177.33.79.44:9981/stream/channelid/1307831015?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/curta.png" tvg-id="6588f9fdf1b51087cddca0e75a7eabed" tvg-chno="56",Curta!
+http://177.33.79.44:9981/stream/channelid/2113505381?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/fishtv.png" tvg-id="22678e8808d19bb1db4946e09359c31d" tvg-chno="58",Fish TV
+http://177.33.79.44:9981/stream/channelid/143550242?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hgtv.png" tvg-id="e9de2d2415ec25c0567c99495820f93f" tvg-chno="60",HGTV
+http://177.33.79.44:9981/stream/channelid/606985961?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/woohoo.png" tvg-id="5defdd6bf03cc576957d2712f20d81cc" tvg-chno="65",Woohoo
+http://177.33.79.44:9981/stream/channelid/1809706845?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/espn.png" tvg-id="c3ae00f0cf8ee97d0ba7cd7bbb496b2f" tvg-chno="70",ESPN
+http://177.33.79.44:9981/stream/channelid/1879092931?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/espn2hd.png" tvg-id="ba3bb80648605d7895a3416f0f8f42d6" tvg-chno="71",ESPN 2
+http://177.33.79.44:9981/stream/channelid/112737210?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/espn4hd.png" tvg-id="08e3b011cfff347aa5a8ae1d25226404" tvg-chno="73",ESPN 4
+http://177.33.79.44:9981/stream/channelid/296805128?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/espn5.png" tvg-id="6477d9f4cd16c89ddc526cd0a69dc6ad" tvg-chno="74",ESPN 5
+http://177.33.79.44:9981/stream/channelid/1960408932?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/bandsports.png" tvg-id="d4a9bc5bef3ba2a6e11e4d5c93299677" tvg-chno="75",Band Sports
+http://177.33.79.44:9981/stream/channelid/1539090900?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cnnbrasil.png" tvg-id="d659381ebcb5956c1d76d7aa81a5902f" tvg-chno="77",CNN Brasil
+http://177.33.79.44:9981/stream/channelid/507009494?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/recordnews.png" tvg-id="516d08084999d0650817f0af36b47c7c" tvg-chno="78",Record News
+http://177.33.79.44:9981/stream/channelid/134770001?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/bandnews.png" tvg-id="4f91687e36dc44d191663ae79d7ea165" tvg-chno="79",Band News
+http://177.33.79.44:9981/stream/channelid/2120782159?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nationalgeographic.png" tvg-id="7b566f3c9819bba4e1c85e14977fe7d0" tvg-chno="80",National Geographic
+http://177.33.79.44:9981/stream/channelid/1013929595?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoverychannel.png" tvg-id="3f39954998462074cb6c95c1e1a75da8" tvg-chno="81",Discovery Channel
+http://177.33.79.44:9981/stream/channelid/1234516287?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/animalplanet.png" tvg-id="ee8772ad935f9cb884c54624bd81abe6" tvg-chno="82",Animal Planet
+http://177.33.79.44:9981/stream/channelid/762480622?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/history.png" tvg-id="d33e99544eb158fed6b5eadef9339daf" tvg-chno="83",History
+http://177.33.79.44:9981/stream/channelid/1419329235?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoveryturbo.png" tvg-id="4f9defce21551cfe44e0a43631c673dd" tvg-chno="84",Discovery Turbo
+http://177.33.79.44:9981/stream/channelid/1324326223?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoveryscience.png" tvg-id="75116c5d2c3462df15ac99d654ae0762" tvg-chno="85",Discovery Science
+http://177.33.79.44:9981/stream/channelid/1567363445?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoverykids.png" tvg-id="4d879f4c62f705252d5e458470eaf17b" tvg-chno="100",Discovery Kids
+http://177.33.79.44:9981/stream/channelid/1285523277?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/gloob.png" tvg-id="d2ce33259995965b5e95888468c73592" tvg-chno="101",Gloob
+http://177.33.79.44:9981/stream/channelid/624152274?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/disneychannel.png" tvg-id="49f5dd4fbfc52487771984a4a8a1884f" tvg-chno="102",Disney Channel
+http://177.33.79.44:9981/stream/channelid/1339946313?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nickelodeon.png" tvg-id="99b03c2e7c9af6f9f0f84d9f10317b7e" tvg-chno="103",Nickelodeon
+http://177.33.79.44:9981/stream/channelid/775729305?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cartoonnetwork.png" tvg-id="82823da041dcfc06047a99270d3cbd78" tvg-chno="104",Cartoon Network
+http://177.33.79.44:9981/stream/channelid/540902018?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cartoonitohd.png" tvg-id="4d803666f12cdd418b53a94b3912f385" tvg-chno="108",Cartoonito
+http://177.33.79.44:9981/stream/channelid/1714847821?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tvratimbum.png" tvg-id="971985caf9cddf916c4d02c428e1313e" tvg-chno="109",TV Rá Tim Bum
+http://177.33.79.44:9981/stream/channelid/1250236823?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/babytv.png" tvg-id="1330fb3bece7b3f027623f4bbf8c163f" tvg-chno="111",Baby TV
+http://177.33.79.44:9981/stream/channelid/1006317587?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/zoomoo.png" tvg-id="1d2b8672f703e8700080a0843cc71e7d" tvg-chno="113",Zoomoo Kids
+http://177.33.79.44:9981/stream/channelid/1921395485?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/bis.png" tvg-id="4e2ee9c231324c5b134420fb0c171b5e" tvg-chno="120",BIS
+http://177.33.79.44:9981/stream/channelid/1122577998?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/mtv.png" tvg-id="967997aa088a6134df4173a2158a09b6" tvg-chno="121",MTV
+http://177.33.79.44:9981/stream/channelid/714570134?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/playtv.png" tvg-id="c8bc2fa3eefb08c7be9cb5680d3d36b5" tvg-chno="122",Play TV
+http://177.33.79.44:9981/stream/channelid/590331080?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/universaltv.png" tvg-id="b933cfb8328c757435349adcbd9049a9" tvg-chno="130",Universal TV
+http://177.33.79.44:9981/stream/channelid/953103289?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/starchannelhd.png" tvg-id="e9555c329d53d0f08cab4a772f06c205" tvg-chno="131",STAR CHANNEL
+http://177.33.79.44:9981/stream/channelid/844912105?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/warnerchannel.png" tvg-id="f2c2afd886ad50048786e5a8d84efb5d" tvg-chno="132",Warner Channel
+http://177.33.79.44:9981/stream/channelid/1487913714?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/canalsony.png" tvg-id="affba5ff2271eaca812c1f8dad958a54" tvg-chno="133",Canal Sony
+http://177.33.79.44:9981/stream/channelid/2141584303?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/fx.png" tvg-id="9fd9ecdee2af7d8c55bc9f10fdb7e3ed" tvg-chno="134",FX
+http://177.33.79.44:9981/stream/channelid/1592580511?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/axn.png" tvg-id="cfe7bb7dee9eac98049fd8c712beba48" tvg-chno="135",AXN
+http://177.33.79.44:9981/stream/channelid/2109466575?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/tntnovelas.png" tvg-id="c824ff06cf69ebaf9d1ed230919a71c5" tvg-chno="136",TNT Novelas
+http://177.33.79.44:9981/stream/channelid/117384392?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/comedycentral.png" tvg-id="717eacb8f66ece06684a6e3847548114" tvg-chno="137",Comedy Central
+http://177.33.79.44:9981/stream/channelid/950828657?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/ae.png" tvg-id="c72bb59b2b2641238514ff3e0218b290" tvg-chno="138",A&E
+http://177.33.79.44:9981/stream/channelid/464858055?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/id.png" tvg-id="cdfad295ef74383516014f872432c3f1" tvg-chno="139",ID
+http://177.33.79.44:9981/stream/channelid/366148301?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/usa.png" tvg-id="ba6b13a00e64e60dd1989bef05f4da87" tvg-chno="140",USA
+http://177.33.79.44:9981/stream/channelid/538143674?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/lifetime.png" tvg-id="d9e91bc10d09f4f60c1c13213ceb2e64" tvg-chno="141",Lifetime
+http://177.33.79.44:9981/stream/channelid/1092348377?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cinecanal.png" tvg-id="75b6222f5251a047c1812f8992aa77cf" tvg-chno="144",Cinecanal
+http://177.33.79.44:9981/stream/channelid/790804085?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/amc.png" tvg-id="85de217e94353456d09f281fab4387f6" tvg-chno="145",AMC
+http://177.33.79.44:9981/stream/channelid/2116148869?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/filmarts.png" tvg-id="fa6d1cc4a0fdd4d45024b2fe04f0242b" tvg-chno="148",Film&Arts
+http://177.33.79.44:9981/stream/channelid/1142713850?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/canalbrasil.png" tvg-id="e5c951303e3b561338d1933cb6ca9b7f" tvg-chno="150",Canal Brasil
+http://177.33.79.44:9981/stream/channelid/810666469?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tnt.png" tvg-id="ef190233f068169f87f282931d43765f" tvg-chno="151",TNT
+http://177.33.79.44:9981/stream/channelid/855775727?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/megapix.png" tvg-id="05978e2982f2cb6b596877fb4c390e3d" tvg-chno="152",Megapix
+http://177.33.79.44:9981/stream/channelid/697210629?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/space.png" tvg-id="d03f71e064c1045eeacf0c75817ab630" tvg-chno="154",Space
+http://177.33.79.44:9981/stream/channelid/1618034640?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cinemax.png" tvg-id="8ea8a5e910f1b5d5351124929764b125" tvg-chno="155",Cinemax
+http://177.33.79.44:9981/stream/channelid/1772464270?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/primeboxbrazil.png" tvg-id="35dedfe75e50746e8b7d4e0ce313df21" tvg-chno="156",Prime Box Brazil
+http://177.33.79.44:9981/stream/channelid/1742724661?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/studiouniversal.png" tvg-id="f1e48cd204fccb35e12435527cc49275" tvg-chno="157",Studio Universal
+http://177.33.79.44:9981/stream/channelid/1384965361?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/paramount.png" tvg-id="d3e1f95ddd6407fecadd61decc08e6c0" tvg-chno="158",Paramount Network
+http://177.33.79.44:9981/stream/channelid/1576657363?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tcm.png" tvg-id="ae33abb8acc7f35ef19487ed6bfb054b" tvg-chno="159",TCM
+http://177.33.79.44:9981/stream/channelid/950743982?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinepremium.png" tvg-id="52b9da6909aa8c3f6039b431f1d4f86a" tvg-chno="161",Telecine Premium
+http://177.33.79.44:9981/stream/channelid/1775941970?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecineaction.png" tvg-id="64cb10fc855ebf607d5328bda6857ab4" tvg-chno="162",Telecine Action
+http://177.33.79.44:9981/stream/channelid/2081475428?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinetouch.png" tvg-id="208527f0d95567cadd1088a1d5e9af92" tvg-chno="163",Telecine Touch
+http://177.33.79.44:9981/stream/channelid/1881638176?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinefun.png" tvg-id="72f6ab68e73f56ec8cfdbeb7c57cac9f" tvg-chno="164",Telecine Fun
+http://177.33.79.44:9981/stream/channelid/1756100210?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinepipoca.png" tvg-id="8ee497cc18ecb3bac409b5e8696298f1" tvg-chno="165",Telecine Pipoca
+http://177.33.79.44:9981/stream/channelid/1285022862?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinecult.png" tvg-id="72dc0b768daf7d50f438aea0192d72d8" tvg-chno="166",Telecine Cult
+http://177.33.79.44:9981/stream/channelid/1980488818?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbo.png" tvg-id="47d684d6c44b0d1f61a4b6130114761a" tvg-chno="171",HBO
+http://177.33.79.44:9981/stream/channelid/1451546183?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbo2.png" tvg-id="65f22a7ff575f0965f64106eab7aeb61" tvg-chno="172",HBO2
+http://177.33.79.44:9981/stream/channelid/2133520997?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hboplus.png" tvg-id="5f659294da475c49150c63376dd11a3d" tvg-chno="173",HBO+
+http://177.33.79.44:9981/stream/channelid/345138527?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbofamily.png" tvg-id="c8ed56da3b3d8bcf0007b6570116217c" tvg-chno="175",HBO Family
+http://177.33.79.44:9981/stream/channelid/1515646408?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbosignature.png" tvg-id="80c01d16532c5b7150af4d2695ed1d5d" tvg-chno="176",HBO Signature
+http://177.33.79.44:9981/stream/channelid/371048576?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbopop.png" tvg-id="6e932a697f13dab336716241ca9a70ad" tvg-chno="177",HBO POP
+http://177.33.79.44:9981/stream/channelid/1764397934?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbomundi.png" tvg-id="34db72df28002e2c47e239dd15778c34" tvg-chno="178",HBO MUNDI
+http://177.33.79.44:9981/stream/channelid/1601362740?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hboxtreme.png" tvg-id="cccb9fe1f1c8ef08e2af8bf8eaabf71e" tvg-chno="179",HBO XTREME
+http://177.33.79.44:9981/stream/channelid/1637862348?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/terraviva.png" tvg-id="c140c5e48948925910852c720b2796c4" tvg-chno="183",Terra Viva
+http://177.33.79.44:9981/stream/channelid/1690648769?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tvnovotempo.png" tvg-id="bccdf5bef6390c246647dcfb5ba623bd" tvg-chno="184",TV Novo Tempo
+http://177.33.79.44:9981/stream/channelid/1056296380?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/canalrural.png" tvg-id="b8ccf1b85c975bee6e0e0cfaace4ea34" tvg-chno="185",Canal Rural
+http://177.33.79.44:9981/stream/channelid/955370680?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/sbn.png" tvg-id="fe41c67e0e6972fd38698c14f791931f" tvg-chno="188",SBN
+http://177.33.79.44:9981/stream/channelid/2126922238?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cgtn.png" tvg-id="3a0bc84a71e0d15eedda487718f408cc" tvg-chno="199",CGTN
+http://177.33.79.44:9981/stream/channelid/1254624058?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cnninternational.png" tvg-id="814f91d7867f8a2153029d7e7d1dbeb2" tvg-chno="200",CNN International
+http://177.33.79.44:9981/stream/channelid/1469140865?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/bloomberg.png" tvg-id="0baeb11dd6206e1a165f17e9198f2aa0" tvg-chno="201",Bloomberg
+http://177.33.79.44:9981/stream/channelid/498183691?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/bbc.png" tvg-id="dcc943b68056ea5e0220ffe4b5f69da3" tvg-chno="202",BBC
+http://177.33.79.44:9981/stream/channelid/910412252?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/rai.png" tvg-id="1cd22e22d823126d16aec200ea06e8bc" tvg-chno="203",RAI
+http://177.33.79.44:9981/stream/channelid/573493788?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tv5.png" tvg-id="28d4e2ba0c72bd3faabaedc72c3abe34" tvg-chno="204",TV5
+http://177.33.79.44:9981/stream/channelid/987943976?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tve.png" tvg-id="9611555dd54c33fdf29f7c99f2dd2971" tvg-chno="205",TVE
+http://177.33.79.44:9981/stream/channelid/1565856150?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/dwdeutschmais.png" tvg-id="32f851a7b266ca083d8e6ec29a2097f1" tvg-chno="206",DW Español
+http://177.33.79.44:9981/stream/channelid/659683378?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nhk.png" tvg-id="82dc11f5b9587e3be536140f44f26f07" tvg-chno="207",NHK
+http://177.33.79.44:9981/stream/channelid/1964104834?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tvkorea.png" tvg-id="d33058e52fc9b623280b4e6c06fc6c35" tvg-chno="209",TV Korea
+http://177.33.79.44:9981/stream/channelid/1700278483?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/france24hd.png" tvg-id="2d3a4f767a2926cb79ceabda9757a12e" tvg-chno="210",France 24
+http://177.33.79.44:9981/stream/channelid/1984903725?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="16f425f44d1ccbb62bf8cdc88d975334" tvg-chno="221",Premiere Clubes
+http://177.33.79.44:9981/stream/channelid/1948644374?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="e226d2007c26f09b23114041cbe6d3ed" tvg-chno="222",Premiere 2
+http://177.33.79.44:9981/stream/channelid/13772514?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="e8b1052bb8f842b5e987c101ef3df222" tvg-chno="223",Premiere 3
+http://177.33.79.44:9981/stream/channelid/721793512?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="e8834bc2139c5b00ea4083ffd1c25e3f" tvg-chno="224",Premiere 4
+http://177.33.79.44:9981/stream/channelid/1112245224?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="fa1f951aa5d9f3796fb5adc7257c966d" tvg-chno="225",Premiere 5
+http://177.33.79.44:9981/stream/channelid/445980666?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="ebf431d9929f7dcede0992a401b2fcb9" tvg-chno="226",Premiere 6
+http://177.33.79.44:9981/stream/channelid/1496446187?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="0cbac136d3b7e04f0b8f785e88b31e3a" tvg-chno="227",Premiere 7
+http://177.33.79.44:9981/stream/channelid/918665740?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="f8c82db2705187e7797af01bb542d186" tvg-chno="228",Premiere 8
+http://177.33.79.44:9981/stream/channelid/841861368?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/combate.png" tvg-id="91fe28a14d2259bd9480ff5f29407655" tvg-chno="240",Combate
+http://177.33.79.44:9981/stream/channelid/556334737?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="64882ecbfdb71d8d69d5a9fd9f2e8048" tvg-chno="253",Cartoon Games
+http://177.33.79.44:9981/stream/channelid/1261340772?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="c66e23917ec8db354000f474892ebb09" tvg-chno="260",Claro (uso interno)
+http://177.33.79.44:9981/stream/channelid/287534790?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="f460b8de95fbda57cd339f38198609c6" tvg-chno="261",Claro (uso interno)
+http://177.33.79.44:9981/stream/channelid/1589141748?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="61e558b16fdebf983c23c9997b138edf" tvg-chno="263",Claro (uso interno)
+http://177.33.79.44:9981/stream/channelid/827909473?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="36edef87e7c44ba72684ec2ca032e800" tvg-chno="264",Claro tv+ (eventual)
+http://177.33.79.44:9981/stream/channelid/133164342?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="3b6c68b671a043231ad61e6b646ac3b5" tvg-chno="265",Claro (uso interno)
+http://177.33.79.44:9981/stream/channelid/912813115?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="37c71681701d6987f2b8dcba20405115" tvg-chno="266",Claro (uso interno)
+http://177.33.79.44:9981/stream/channelid/18270007?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="d12a3aa311596bf5ee737650ebbb20a9" tvg-chno="267",Claro (uso interno)
+http://177.33.79.44:9981/stream/channelid/591014609?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="e5e6e4f02ead2cc1ea0aa56501553104" tvg-chno="304",MPB
+http://177.33.79.44:9981/stream/channelid/1894049509?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="d71c52ccee135a1a7ce4aa653e4be4df" tvg-chno="305",Kids
+http://177.33.79.44:9981/stream/channelid/1280449751?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="c29a4acebf3895d8f162b82647ba3c36" tvg-chno="306",Soft Hits
+http://177.33.79.44:9981/stream/channelid/1313512130?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="940fa9571dbd5065418138882397a0fc" tvg-chno="307",Samba e Pagode
+http://177.33.79.44:9981/stream/channelid/1470697364?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="45492ad6a865627c975dfc5f9a774620" tvg-chno="308",Funk e Rap
+http://177.33.79.44:9981/stream/channelid/1445611845?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="befc292fd96d127ded697ae744fe4840" tvg-chno="309",Anos 2000
+http://177.33.79.44:9981/stream/channelid/791280830?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="f219ffed6d76035efe3ef72318229a4a" tvg-chno="310",Sertanejo
+http://177.33.79.44:9981/stream/channelid/1845434866?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="e0c1708c0cb9e0917d445229622ecdcb" tvg-chno="311",Forró
+http://177.33.79.44:9981/stream/channelid/208716256?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="dd0a02a96d569379ebc52f234927b7c7" tvg-chno="315",Românticas
+http://177.33.79.44:9981/stream/channelid/687999709?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="c8244aee123ed4ca1725e718160e94de" tvg-chno="316",Anos 60
+http://177.33.79.44:9981/stream/channelid/1850352840?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="bfa24935629aa2d8c80d0f3920d7312a" tvg-chno="317",Anos 70
+http://177.33.79.44:9981/stream/channelid/894018239?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="f8633531498781c84c294ed5731427d9" tvg-chno="318",Anos 80
+http://177.33.79.44:9981/stream/channelid/825582584?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="e3e040dd514064172663bdcd43239104" tvg-chno="319",Rock
+http://177.33.79.44:9981/stream/channelid/1564532963?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="286257ddc4cc587afff3404f385ef622" tvg-chno="320",Rock Clássico
+http://177.33.79.44:9981/stream/channelid/1566007848?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="22c3fa90d283ae9a2aaac17dc386adf4" tvg-chno="321",Anos 90
+http://177.33.79.44:9981/stream/channelid/284869410?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="725f75c07244fab7073407ef8943ec66" tvg-chno="322",Disco
+http://177.33.79.44:9981/stream/channelid/1081433970?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="44881e700a94e34edcb4eab0948184d4" tvg-chno="323",Reggae
+http://177.33.79.44:9981/stream/channelid/1881049156?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="ec0acca47c2ab8edd6f97afb9b2513a0" tvg-chno="326",Festa
+http://177.33.79.44:9981/stream/channelid/617351916?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="cf9bedfccbec57329952301221e322e8" tvg-chno="327",Eletrônica
+http://177.33.79.44:9981/stream/channelid/2095946703?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="ed36a2431a8ebc28cafa6d5dd3dd7637" tvg-chno="328",Lounge
+http://177.33.79.44:9981/stream/channelid/1134704365?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="4f71b8ed35f33a075b0d6c9e13044586" tvg-chno="333",Blues
+http://177.33.79.44:9981/stream/channelid/1840804175?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="54249be3e1c841827b476b5b0956b048" tvg-chno="334",Black/Hip Hop
+http://177.33.79.44:9981/stream/channelid/1671111764?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="73dd44f8a9e7fc5fdf22400524a978e3" tvg-chno="336",Jazz
+http://177.33.79.44:9981/stream/channelid/2017779059?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="c0bd918a01463998d21f0cb1dc9c3620" tvg-chno="337",Metal
+http://177.33.79.44:9981/stream/channelid/177323456?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="599e4723f8e38c7f20e38daa9b65beaf" tvg-chno="338",Clássica
+http://177.33.79.44:9981/stream/channelid/591896153?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="64262b97986b720ab30186dc8a0b4ec5" tvg-chno="339",Rock Brasil
+http://177.33.79.44:9981/stream/channelid/388703844?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/bandfm.png" tvg-id="4605fa7bab5cf63aef36c75fec82c4e6" tvg-chno="340",Band FM
+http://177.33.79.44:9981/stream/channelid/2079982918?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nativafm.png" tvg-id="2759063f0e52477c05190111401d3d0f" tvg-chno="341",Nativa FM
+http://177.33.79.44:9981/stream/channelid/1057380647?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="2147e5d7628c47bb4f864c5b84fe7e04" tvg-chno="343",Gospel
+http://177.33.79.44:9981/stream/channelid/1474643745?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/band.png" tvg-id="3f546075ff49805ff8a5765e14f50064" tvg-chno="344",Bandeirantes
+http://177.33.79.44:9981/stream/channelid/1969247295?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/bandnewsfm.png" tvg-id="47c80f85b24e280ab6b2ac09016098e9" tvg-chno="345",Band News FM
+http://177.33.79.44:9981/stream/channelid/84920391?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/radiogloborj.png" tvg-id="c7039dbc99c382361579e2f0dafce3ce" tvg-chno="347",Rádio Globo RJ
+http://177.33.79.44:9981/stream/channelid/1016923079?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/anos2000.png" tvg-id="a78d1b8f488d92e90e65b4efcdb89c2a" tvg-chno="349",CBN SP
+http://177.33.79.44:9981/stream/channelid/253463975?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/radioglobosp.png" tvg-id="d067086fc46ad30750e18cdf5ce96647" tvg-chno="350",Rádio Globo SP
+http://177.33.79.44:9981/stream/channelid/1862821840?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/radiogaucha.png" tvg-id="c3335d138c37824c60d03a846ea4f269" tvg-chno="351",Rádio Gaúcha
+http://177.33.79.44:9981/stream/channelid/324875203?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/clarotvmais4k.png" tvg-id="f99fc49af602be60319bdd81cda9ed3c" tvg-chno="444",Claro TV+ 4K
+http://177.33.79.44:9981/stream/channelid/449093625?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="1088d6db46b9208e980906f06e50c5aa" tvg-chno="500",Canal do Cliente HD
+http://177.33.79.44:9981/stream/channelid/1540786192?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/futura.png" tvg-id="448d24c95b21fea1dcea4250fc60c7fc" tvg-chno="534",Futura HD
+http://177.33.79.44:9981/stream/channelid/1227132228?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/off.png" tvg-id="ea3ee6b5bba6ed5bbca14068124adc58" tvg-chno="535",OFF HD
+http://177.33.79.44:9981/stream/channelid/904281834?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/sportv3.png" tvg-id="9ccc06e5884d3b3803aca4a5df7e3697" tvg-chno="537",SporTV3 HD
+http://177.33.79.44:9981/stream/channelid/1694944412?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/sportv2.png" tvg-id="ebfe3b06cfc86f017465f992101479b5" tvg-chno="538",SporTV2 HD
+http://177.33.79.44:9981/stream/channelid/104595179?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/sportv.png" tvg-id="2f3128e8878419d21292d71fb80e7d16" tvg-chno="539",SporTV HD
+http://177.33.79.44:9981/stream/channelid/1747464495?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/globonews.png" tvg-id="e7f341ba06b46e070bb05c85709d370f" tvg-chno="540",GloboNews HD
+http://177.33.79.44:9981/stream/channelid/977400807?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/gnt.png" tvg-id="dd1abc79424e5bc988e938ea927caba8" tvg-chno="541",GNT HD
+http://177.33.79.44:9981/stream/channelid/2042370781?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/multishow.png" tvg-id="5cb9f346962ed0595631bcf3f751fbda" tvg-chno="542",Multishow HD
+http://177.33.79.44:9981/stream/channelid/1190377820?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/viva.png" tvg-id="4906e5b5583155e82bc48cc0eda59406" tvg-chno="543",Viva HD
+http://177.33.79.44:9981/stream/channelid/904201801?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/modoviagemhd.png" tvg-id="24fbf3a08611bca33638991c387460f4" tvg-chno="544",Modo Viagem HD
+http://177.33.79.44:9981/stream/channelid/552860452?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/e.png" tvg-id="10657b759df173173b03204481761cf9" tvg-chno="550",E! HD
+http://177.33.79.44:9981/stream/channelid/1971021072?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/fashiontvhd.png" tvg-id="ace2b0e891a68b6e87f12505792e0ff3" tvg-chno="551",Fashion TV HD
+http://177.33.79.44:9981/stream/channelid/1756422828?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tlc.png" tvg-id="f3efabf0db41662f50d54c328864e8e1" tvg-chno="552",TLC HD
+http://177.33.79.44:9981/stream/channelid/1890316275?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/arte1.png" tvg-id="eb3430b8173dae27e8da395dfadbf6fd" tvg-chno="553",Arte 1 HD
+http://177.33.79.44:9981/stream/channelid/942683371?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/foodnetwork.png" tvg-id="c1e73d895f1384a34d5476a4d79708ea" tvg-chno="554",Food Network HD
+http://177.33.79.44:9981/stream/channelid/155051969?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/dischomehealth.png" tvg-id="286becb49b7b48543363ab1b08bfc404" tvg-chno="555",Disc. Home & Health HD
+http://177.33.79.44:9981/stream/channelid/887909160?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/curta.png" tvg-id="541edca57d4196bf4d0d87c3ae6c870e" tvg-chno="556",Curta! HD
+http://177.33.79.44:9981/stream/channelid/635182676?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/travelboxbrazilhd.png" tvg-id="1a5be448341acc29eb44df66ea845968" tvg-chno="557",Travel Box Brazil HD
+http://177.33.79.44:9981/stream/channelid/1222925082?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/fishtv.png" tvg-id="71f860265c46d8ff7e0e8516d6744056" tvg-chno="558",Fish TV HD
+http://177.33.79.44:9981/stream/channelid/643889265?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/dogtv.png" tvg-id="dd0ffabcd4c4e1995bbf65b4231be829" tvg-chno="559",DOG TV
+http://177.33.79.44:9981/stream/channelid/1023021021?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hgtv.png" tvg-id="0065c979f16f9d9eb938d9bf460bde9a" tvg-chno="560",HGTV HD
+http://177.33.79.44:9981/stream/channelid/2043241728?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/bmecnews2.png" tvg-id="2e3ab00ff583d7664941c053ee78001b" tvg-chno="563",BM&C HD
+http://177.33.79.44:9981/stream/channelid/263207470?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="2e279d3dc70414859406239c81bd1639" tvg-chno="564",TBC - Trip Brasil Channel HD
+http://177.33.79.44:9981/stream/channelid/1033709358?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/woohoo.png" tvg-id="dfa65564e91e8a9014d86f2d03653f70" tvg-chno="565",Woohoo HD
+http://177.33.79.44:9981/stream/channelid/1683334879?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/nsports.png" tvg-id="a82e2c509f137fd28216fa61ea536ee7" tvg-chno="566",NSPORTS HD
+http://177.33.79.44:9981/stream/channelid/1345072808?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/nossofutebol2.png" tvg-id="b969b9f388592a0cf348dffbb2ee792e" tvg-chno="567",Nosso Futebol HD
+http://177.33.79.44:9981/stream/channelid/1941531065?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/espn6.png" tvg-id="24c16cab6f361aa690ad562eac48e44c" tvg-chno="569",ESPN 6 HD
+http://177.33.79.44:9981/stream/channelid/728547620?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/espn.png" tvg-id="83dfaa1db8ecfb47c2d570387b952488" tvg-chno="570",ESPN HD
+http://177.33.79.44:9981/stream/channelid/497737603?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/espn2hd.png" tvg-id="6894930882a2a6d7ac613d4b57d267e7" tvg-chno="571",ESPN 2 HD
+http://177.33.79.44:9981/stream/channelid/143889512?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/espn3hd.png" tvg-id="95e5fc65a97d9938f87bb4def8b6827c" tvg-chno="572",ESPN 3 HD
+http://177.33.79.44:9981/stream/channelid/1711072661?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/espn4hd.png" tvg-id="66f5ff1d8c4e30a5ce50b21afaf5363a" tvg-chno="573",ESPN 4 HD
+http://177.33.79.44:9981/stream/channelid/503313766?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/espn5.png" tvg-id="5f5869ec3c11d38d9dcc93c4fd319cd4" tvg-chno="574",ESPN 5 HD
+http://177.33.79.44:9981/stream/channelid/1818843231?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/bandsports.png" tvg-id="d3c9269a33a8c4b38004ff845dd58ac1" tvg-chno="575",Band Sports HD
+http://177.33.79.44:9981/stream/channelid/438749651?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/jpnewshd.png" tvg-id="4e6848690ebd68bc9fc633bf68dd0f32" tvg-chno="576",JP News HD
+http://177.33.79.44:9981/stream/channelid/1766352974?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cnnbrasil.png" tvg-id="5036186876cdb09cfd2f4378e347846c" tvg-chno="577",CNN Brasil HD
+http://177.33.79.44:9981/stream/channelid/1746417232?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/recordnews.png" tvg-id="12c40bfa7c2feefdad5ce1b7dd3c6d39" tvg-chno="578",Record News HD
+http://177.33.79.44:9981/stream/channelid/2047591442?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/bandnews.png" tvg-id="372f8e59b61a75caea63e4a56e6c7aef" tvg-chno="579",Band News HD
+http://177.33.79.44:9981/stream/channelid/1502490423?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nationalgeographic.png" tvg-id="0c73b6b933d24bd344a2a63941d02e3f" tvg-chno="580",National Geographic HD
+http://177.33.79.44:9981/stream/channelid/968258316?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoverychannel.png" tvg-id="595dee0eeee99b5559da2ccad5d53059" tvg-chno="581",Discovery Channel HD
+http://177.33.79.44:9981/stream/channelid/250502489?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/animalplanet.png" tvg-id="9b16d2b07d01bef536d1096d17c3c89d" tvg-chno="582",Animal Planet HD
+http://177.33.79.44:9981/stream/channelid/819074715?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/history.png" tvg-id="ad7913a619ee74afd1b8999998e9a9ff" tvg-chno="583",History HD
+http://177.33.79.44:9981/stream/channelid/638810541?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoveryturbo.png" tvg-id="0c16233b7f2d843e887f2f2fcdf3def1" tvg-chno="584",Discovery Turbo HD
+http://177.33.79.44:9981/stream/channelid/992155148?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoveryscience.png" tvg-id="13016b05129ba86772c2f83afc0c5cb3" tvg-chno="585",Discovery Science HD
+http://177.33.79.44:9981/stream/channelid/90898707?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoverytheaterhd.png" tvg-id="5211525e82c60714f414d5fb3e6ca416" tvg-chno="592",Discovery Theater HD
+http://177.33.79.44:9981/stream/channelid/1582436690?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoveryworldhd.png" tvg-id="d88351fda583ff6bc05b84a5687e802d" tvg-chno="593",Discovery World HD
+http://177.33.79.44:9981/stream/channelid/2102494168?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/history2hd.png" tvg-id="e0b75a22f9150e7f3fa57fe5d736a3d8" tvg-chno="594",History 2 HD
+http://177.33.79.44:9981/stream/channelid/576370656?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/gloobinhohd.png" tvg-id="478904c5faa823b688f397563a0c3ec8" tvg-chno="599",Gloobinho HD
+http://177.33.79.44:9981/stream/channelid/1157925191?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/discoverykids.png" tvg-id="ab28bc1893d845a0e409535068fad3a3" tvg-chno="600",Discovery Kids HD
+http://177.33.79.44:9981/stream/channelid/414984363?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/gloob.png" tvg-id="5213aea608edaad3a4a37ac1374d9658" tvg-chno="601",Gloob HD
+http://177.33.79.44:9981/stream/channelid/648942418?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/disneychannel.png" tvg-id="de34e335741a0101a2c1fe87fba4e58c" tvg-chno="602",Disney Channel HD
+http://177.33.79.44:9981/stream/channelid/904082654?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cartoonnetwork.png" tvg-id="51456b112b5eca8ad499312a80a2098d" tvg-chno="604",Cartoon Network HD
+http://177.33.79.44:9981/stream/channelid/292242769?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nickjr.png" tvg-id="fbb4ff8f9822e8415531b822a6432163" tvg-chno="607",Nick Jr. HD
+http://177.33.79.44:9981/stream/channelid/268416251?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cartoonitohd.png" tvg-id="64d474acf7c03ef4e7026f7163f330d4" tvg-chno="608",Cartoonito HD
+http://177.33.79.44:9981/stream/channelid/745854052?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tvratimbum.png" tvg-id="b161eb4927179e8f6005250ecc218a54" tvg-chno="609",TV Rá Tim Bum HD
+http://177.33.79.44:9981/stream/channelid/1240162737?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/zoomoo2.png" tvg-id="e5188d67c0c5ae59a37c1de86ae5188b" tvg-chno="613",Zoomoo Kids HD
+http://177.33.79.44:9981/stream/channelid/1737300197?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/mtv.png" tvg-id="5119b4f549c9b9398744e33a55e5b151" tvg-chno="621",MTV HD
+http://177.33.79.44:9981/stream/channelid/1974737233?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/musicboxbrazil.png" tvg-id="f91d569b307b807224c651dc26287dd3" tvg-chno="623",Music Box Brazil HD
+http://177.33.79.44:9981/stream/channelid/458628601?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/tracebrasil.png" tvg-id="9289db723c764d90f798e1f42b4cf46b" tvg-chno="624",Trace Brasil HD
+http://177.33.79.44:9981/stream/channelid/1926990226?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/mtvs00.png" tvg-id="437b22b0e240c14fc549a50dbe125715" tvg-chno="625",MTV's 00
+http://177.33.79.44:9981/stream/channelid/807566147?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/mtvlivehd.png" tvg-id="8e6e5ba1964a72357cb031a8ea4c34a8" tvg-chno="628",MTV LIVE HD
+http://177.33.79.44:9981/stream/channelid/559640206?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/universaltv.png" tvg-id="35fae92490a0daed519ab6e35f310973" tvg-chno="630",Universal TV HD
+http://177.33.79.44:9981/stream/channelid/619313717?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/starchannelhd.png" tvg-id="23e3f8172643c859298e56ff1657ca74" tvg-chno="631",STAR CHANNEL HD
+http://177.33.79.44:9981/stream/channelid/402187043?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/warnerchannel.png" tvg-id="597045092b11a24e266dbcd84a1a79c9" tvg-chno="632",Warner Channel HD
+http://177.33.79.44:9981/stream/channelid/155545689?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/canalsony.png" tvg-id="ec827b31e1c606e1b949490dd2831824" tvg-chno="633",Canal Sony HD
+http://177.33.79.44:9981/stream/channelid/830178028?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/fx.png" tvg-id="3207cedd41f064f09a4c510a12ba06e6" tvg-chno="634",FX HD
+http://177.33.79.44:9981/stream/channelid/1573783346?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/axn.png" tvg-id="51c7ae9cdac3ee0c5bf0a325282d9eea" tvg-chno="635",AXN HD
+http://177.33.79.44:9981/stream/channelid/481216337?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/tntnovelas.png" tvg-id="df3920e90bc7e99748e30d603a397030" tvg-chno="636",TNT Novelas HD
+http://177.33.79.44:9981/stream/channelid/1763719647?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/comedycentral.png" tvg-id="3db909a3602a0f28e992dc85cfb7265b" tvg-chno="637",Comedy Central HD
+http://177.33.79.44:9981/stream/channelid/587839805?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/ae.png" tvg-id="45fa1a92ae20960f751fae8b025915bc" tvg-chno="638",A&E HD
+http://177.33.79.44:9981/stream/channelid/303757893?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/id.png" tvg-id="06b9e6f9b7006331bdeb7c19a14dd6d3" tvg-chno="639",ID HD
+http://177.33.79.44:9981/stream/channelid/2045163782?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/usa.png" tvg-id="f4f3dbc1e52c50946736c9b6241157b9" tvg-chno="640",USA HD
+http://177.33.79.44:9981/stream/channelid/1104933876?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/lifetime.png" tvg-id="ad223f2649e4db24d73255535c8e4f14" tvg-chno="641",Lifetime HD
+http://177.33.79.44:9981/stream/channelid/641671853?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tntserieshd.png" tvg-id="cb0ab5aeca5812ac883996655c22b5f8" tvg-chno="643",TNT Séries HD
+http://177.33.79.44:9981/stream/channelid/783616715?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cinecanal.png" tvg-id="4e3fb746111b8b7bf04783749ff71bd3" tvg-chno="644",Cinecanal HD
+http://177.33.79.44:9981/stream/channelid/1186414414?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/amc.png" tvg-id="c342f695b112aadd5352186a21e1be69" tvg-chno="645",AMC HD
+http://177.33.79.44:9981/stream/channelid/368460483?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/eurochannelhd.png" tvg-id="6892523bcdc1d2e4973485f35491d247" tvg-chno="647",Eurochannel HD
+http://177.33.79.44:9981/stream/channelid/995267176?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/filmarts.png" tvg-id="04e880036a4e318fb11a71b86c50073b" tvg-chno="648",Film&Arts HD
+http://177.33.79.44:9981/stream/channelid/58779652?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/canalbrasil.png" tvg-id="53a47f673563c95ba4b3d28a7f0fa732" tvg-chno="650",Canal Brasil HD
+http://177.33.79.44:9981/stream/channelid/1736418387?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/tnt.png" tvg-id="f039d061b4bf1a139257d2fbd299db6f" tvg-chno="651",TNT HD
+http://177.33.79.44:9981/stream/channelid/1641036272?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/megapix.png" tvg-id="ac71c5ca6ff37f78a74cdb5e6af3cf85" tvg-chno="652",Megapix HD
+http://177.33.79.44:9981/stream/channelid/1254453676?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/space.png" tvg-id="44c6f8de42e197cb2a132e3b07de662a" tvg-chno="654",Space HD
+http://177.33.79.44:9981/stream/channelid/1593361988?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/cinemax.png" tvg-id="fc76756e13143d9cbe44626f06cf7c18" tvg-chno="655",Cinemax HD
+http://177.33.79.44:9981/stream/channelid/1853191932?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/primeboxbrazil.png" tvg-id="4fc948a92d06f3f909a9e7b73f8c5c64" tvg-chno="656",Prime Box Brazil HD
+http://177.33.79.44:9981/stream/channelid/692635983?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/studiouniversal.png" tvg-id="fda6b482520d6c84a5fb2440b1590c21" tvg-chno="657",Studio Universal HD
+http://177.33.79.44:9981/stream/channelid/45393661?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/paramount.png" tvg-id="b20e3cd8826db0b3f9595f77bc6e4512" tvg-chno="658",Paramount Network HD
+http://177.33.79.44:9981/stream/channelid/1480330930?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinepremium.png" tvg-id="ea517370d7997c8f9189887776e10a34" tvg-chno="661",Telecine Premium HD
+http://177.33.79.44:9981/stream/channelid/1886605802?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecineaction.png" tvg-id="ff58ab35ce2818777fe1626ddd4a2879" tvg-chno="662",Telecine Action HD
+http://177.33.79.44:9981/stream/channelid/900421887?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinetouch.png" tvg-id="8e3514b75b37cf18500cc546951e81f2" tvg-chno="663",Telecine Touch HD
+http://177.33.79.44:9981/stream/channelid/924071310?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinefun.png" tvg-id="dc69ffd976a384c2699da7786fed4ec6" tvg-chno="664",Telecine Fun HD
+http://177.33.79.44:9981/stream/channelid/1509911004?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinepipoca.png" tvg-id="47cf0ba6d55187867b75d3620d6bd196" tvg-chno="665",Telecine Pipoca HD
+http://177.33.79.44:9981/stream/channelid/638308167?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/telecinecult.png" tvg-id="e21b0de1951046acd8334be98dfed3b0" tvg-chno="666",Telecine Cult HD
+http://177.33.79.44:9981/stream/channelid/1628249058?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbo.png" tvg-id="52000fc9f8a4c3ebcc35e85c3168460e" tvg-chno="671",HBO HD
+http://177.33.79.44:9981/stream/channelid/1225719890?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbo2.png" tvg-id="d05ef5ae269d4710579089999d4704a8" tvg-chno="672",HBO2 HD
+http://177.33.79.44:9981/stream/channelid/787832528?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hboplus.png" tvg-id="7e6918ccf653044e3c798646b7c6ddf8" tvg-chno="673",HBO+ HD
+http://177.33.79.44:9981/stream/channelid/1276668286?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbofamily.png" tvg-id="c10ae9613685c03ec1bb1ee1301a1a4b" tvg-chno="675",HBO Family HD
+http://177.33.79.44:9981/stream/channelid/1642662593?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbosignature.png" tvg-id="88aa6416c8107f8e35bad2a07da7fd72" tvg-chno="676",HBO Signature HD
+http://177.33.79.44:9981/stream/channelid/375696008?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbopop.png" tvg-id="f9027f84d2cf1717f024444acb084729" tvg-chno="677",HBO POP HD
+http://177.33.79.44:9981/stream/channelid/75432697?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hbomundi.png" tvg-id="50904ddc09953a1ed1b8b55a75538034" tvg-chno="678",HBO MUNDI HD
+http://177.33.79.44:9981/stream/channelid/1548587088?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/hboxtreme.png" tvg-id="8592a59bc005eae673dec20b1dfbdee8" tvg-chno="679",HBO XTREME HD
+http://177.33.79.44:9981/stream/channelid/463835781?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/paramountplus1.png" tvg-id="cb825e048de7ddcc70c0fd72f8823bab" tvg-chno="711",Paramount+
+http://177.33.79.44:9981/stream/channelid/73302731?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/paramountplus2.png" tvg-id="7bfbaebb92328ad7dca8690e123343ba" tvg-chno="712",Paramount+ 2
+http://177.33.79.44:9981/stream/channelid/1001323387?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/paramountplus3.png" tvg-id="6f6e0eff8e0b80f36d0f0f1f7ec3808d" tvg-chno="713",Paramount+ 3
+http://177.33.79.44:9981/stream/channelid/2131652207?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/paramountplus4.png" tvg-id="95f08b37d08254b4495604c1ae9c2c3f" tvg-chno="714",Paramount+ 4
+http://177.33.79.44:9981/stream/channelid/931917973?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/nossofutebol2.png" tvg-id="1619bee203087621ef68c5aa741dce39" tvg-chno="717",Nosso Futebol + 1
+http://177.33.79.44:9981/stream/channelid/1656625430?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/HisiELEC/picons/main//img/nossofutebol2.png" tvg-id="67654a31a958a873218da04966961d4f" tvg-chno="719",Nosso Futebol + 3
+http://177.33.79.44:9981/stream/channelid/826959207?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="971d725c2ca87062f4e44ce648564008" tvg-chno="721",Premiere Clubes HD
+http://177.33.79.44:9981/stream/channelid/1550982551?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="3adf66f848621571fb29eb134ea6afbf" tvg-chno="722",Premiere 2 HD
+http://177.33.79.44:9981/stream/channelid/2020007738?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="9f7c59aaa5d3ab493249dc16bc47f3f8" tvg-chno="723",Premiere 3 HD
+http://177.33.79.44:9981/stream/channelid/710507679?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="c4cf608fbec49986090fdc79deedca4f" tvg-chno="724",Premiere 4 HD
+http://177.33.79.44:9981/stream/channelid/258002884?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="f45434455e96f12341cdcfe87845ed33" tvg-chno="725",Premiere 5 HD
+http://177.33.79.44:9981/stream/channelid/1161057524?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="7645c3687c1f181dc2ca08958ff11627" tvg-chno="726",Premiere 6 HD
+http://177.33.79.44:9981/stream/channelid/1757627766?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="c2c67a7131ea846152e46233fc6a5cb7" tvg-chno="727",Premiere 7 HD
+http://177.33.79.44:9981/stream/channelid/1903871682?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/premiereclubes.png" tvg-id="0217d31b80c28b8ec5da639b72da5d60" tvg-chno="728",Premiere 8 HD
+http://177.33.79.44:9981/stream/channelid/466818818?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/combate.png" tvg-id="4ac02415452ef6fdd65a0d8bf314f99e" tvg-chno="740",Combate HD
+http://177.33.79.44:9981/stream/channelid/354730058?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/josemoraes99/kodi_picons/master/img/nettv.png" tvg-id="9dd92db01999ac92bc9f5fdfc012869a" tvg-chno="900",Canal de Teste HD
+http://177.33.79.44:9981/stream/channelid/808311197?profile=pass
+
+
+
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/74595
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://tv14s.xyz:8080/753468/894568/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://tv14s.xyz:8080/753468/894568/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://tv14s.xyz:8080/753468/894568/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://tv14s.xyz:8080/753468/894568/167745
+
+#EXTINF:-1,CA TSN 1 (E)
+http://tv14s.xyz:8080/753468/894568/57292
+#EXTINF:-1,CA TSN 1 (R)
+http://tv14s.xyz:8080/753468/894568/47440
+#EXTINF:-1,CA TSN 2 (R)
+http://tv14s.xyz:8080/753468/894568/16129
+#EXTINF:-1,CA TSN 2 HD 
+http://tv14s.xyz:8080/753468/894568/47442
+#EXTINF:-1,CA TSN 3 HD 
+http://tv14s.xyz:8080/753468/894568/10389
+#EXTINF:-1,CA TSN 3 HD 
+http://tv14s.xyz:8080/753468/894568/47444
+#EXTINF:-1,CA TSN 4 
+http://tv14s.xyz:8080/753468/894568/66783
+#EXTINF:-1,CA TSN 4 (B)
+http://tv14s.xyz:8080/753468/894568/47446
+#EXTINF:-1,CA TSN 5 
+http://tv14s.xyz:8080/753468/894568/57467
+#EXTINF:-1,CA TSN 5 HD 
+http://tv14s.xyz:8080/753468/894568/16131
+#EXTINF:-1,CA TSN 5 
+http://tv14s.xyz:8080/753468/894568/57295
+#EXTINF:-1,US ESPN SEC Network 
+http://tv14s.xyz:8080/753468/894568/17608
+
+#EXTINF:-1,US ACC Network (A)
+http://tv14s.xyz:8080/753468/894568/9273
+#EXTINF:-1,US Big Ten HD
+http://tv14s.xyz:8080/753468/894568/9828
+#EXTINF:-1,US ESPN 2 
+http://tv14s.xyz:8080/753468/894568/2210
+#EXTINF:-1,US ESPN 1 (HD) 
+http://tv14s.xyz:8080/753468/894568/14197
+#EXTINF:-1,US ESPN 1 (HD) 
+http://tv14s.xyz:8080/753468/894568/9802
+#EXTINF:-1,US ESPNU College Sports 
+http://tv14s.xyz:8080/753468/894568/10255
+#EXTINF:-1,USA: Food Network HD
+http://tv14s.xyz:8080/753468/894568/7323
+#EXTINF:-1,US Fox Business Network
+http://tv14s.xyz:8080/753468/894568/17639
+#EXTINF:-1,US Fox News  
+http://tv14s.xyz:8080/753468/894568/1818
+#EXTINF:-1,US Fox Sports 1 
+http://tv14s.xyz:8080/753468/894568/1846
+
+#EXTINF:-1,US Fox Sports 2 (A)
+http://tv14s.xyz:8080/753468/894568/1847
+
+#EXTINF:-1,US PAC12 Mountain (F)
+http://tv14s.xyz:8080/753468/894568/16493
+#EXTINF:-1,US PAC12 Washington (F)
+http://tv14s.xyz:8080/753468/894568/16571
+#EXTINF:-1,US PAC12 Arizona (F)
+http://tv14s.xyz:8080/753468/894568/16490
+#EXTINF:-1,US PAC12 BayArea (F)
+http://tv14s.xyz:8080/753468/894568/16491
+#EXTINF:-1,US PAC12 LosAngeles (F)
+http://tv14s.xyz:8080/753468/894568/16492
+#EXTINF:-1,US PAC12 Network (F)
+http://tv14s.xyz:8080/753468/894568/16494
+#EXTINF:-1,US PAC12 Oregon (F)
+http://tv14s.xyz:8080/753468/894568/16532
+
